@@ -4,13 +4,14 @@
     background-size: cover;
     background-attachment: fixed;
 }
+.navbar{
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
-.navbar ul li{
-    list-style: none;
-    display: inline-block;
-    margin: 0 25px;
-    position: relative;
-  }
     .navbar ul li a{
         text-decoration:solid;
         color: #fff;
