@@ -34,11 +34,14 @@
         transition: 0.5s;
       }
 
-      .navbar ul li:hover::after{
-        width: 100%;
-      }
+      
 
-
+      .header{
+        color: white;
+        text-align: center;
+        font-size: 50px;
+        margin-top: 50px;
+    }
  
 .description{
     color: white;
