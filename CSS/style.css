@@ -123,12 +123,7 @@
     width: 100%;
     
 }
-#payment label {
-    color: rgb(108, 192, 164);
-    font-size: 20px;
-    margin-bottom: 20px;
-    display: block;
-}
+
 #payment input {
     width: auto;
     padding: 15px;
@@ -147,7 +142,12 @@
     width: 100%;
     
 }
-
+#booking-confirmation label {
+    color: rgb(108, 192, 164);
+    font-size: 20px;
+    margin-bottom: 20px;
+    display: block;
+}
 #booking-confirmation input {
     width: auto;
     padding: 15px;
