@@ -11,12 +11,7 @@
     justify-content: space-between;
     align-items: center;
 }
-.navbar ul li{
-    list-style: none;
-    display: inline-block;
-    margin: 0 25px;
-    position: relative;
-  }
+
     .navbar ul li a{
         text-decoration:solid;
         color: #fff;
@@ -171,7 +166,12 @@
     width: 100%;
     
 }
-
+#all-bookings label {
+    color: rgb(108, 192, 164);
+    font-size: 20px;
+    margin-bottom: 20px;
+    display: block;
+}
 #all-bookings input {
     width: auto;
     padding: 15px;
