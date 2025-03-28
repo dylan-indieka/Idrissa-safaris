@@ -34,9 +34,7 @@
         transition: 0.5s;
       }
 
-      .navbar ul li:hover::after{
-        width: 100%;
-      }
+     
 
       .header{
         color: white;
@@ -45,7 +43,12 @@
         margin-top: 50px;
     }
  
-
+    .description{
+        color: white;
+        text-align: center;
+        font-size: 20px;
+        margin-top: 20px;
+    }
 .description p{
     margin-top: 20px;
     font-family: Arial, Helvetica, sans-serif;
