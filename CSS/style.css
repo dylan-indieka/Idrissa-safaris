@@ -4,13 +4,7 @@
     background-size: cover;
     background-attachment: fixed;
 }
-.navbar{
-    margin: auto;
-    padding: 35px 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
+
 .navbar ul li{
     list-style: none;
     display: inline-block;
@@ -99,7 +93,12 @@
     width: 100%;
     
 }
-
+#booking-info label {
+    color: rgb(108, 192, 164);
+    font-size: 20px;
+    margin-bottom: 20px;
+    display: block;
+}
 #booking-info input {
     width: auto;
     padding: 15px;
